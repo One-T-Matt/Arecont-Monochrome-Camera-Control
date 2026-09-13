@@ -97,3 +97,12 @@ Press "w" to change the white balance between Automatic, Indoor, Outdoor and Mix
 
 ### Custom Functions.
 At the top of the Monocam.PS1 script, there are 3 pre-defined custom functions with all available settings listed in them. Change these functions to reflect any settings you use commonly.  You can then press 1, 2, or 3 to quickly change between groups of settings.
+
+## Image Examples
+
+These images were shot using an Arecont AV3130M, generally on Quality mode, with a Cosmicar 16mm F/1.6 lens
+
+<img width="1280" height="1024" alt="Mono-2026-09-11_17-49-59" src="https://github.com/user-attachments/assets/e964ccfc-fd1e-40b7-b975-1e5a76811518" />
+<img width="1280" height="1024" alt="Mono-2026-09-11_07-43-19" src="https://github.com/user-attachments/assets/66bfcf91-8f77-4e6f-9ab8-11dae652c5a2" />
+<img width="1280" height="1024" alt="Mono-2026-09-11_07-40-56" src="https://github.com/user-attachments/assets/c986cecd-aa1b-4361-9ce6-88bf0936f1fa" />
+
