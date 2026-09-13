@@ -71,11 +71,13 @@ Press the space bar to initiate the image taking process. The script calls the i
 
 ### Low Light Exposure Mode
 Press "s" to change the Low Light Exposure Mode.  Since we are using the monochrome (night) sensor, the camera considers everything we do to be in "low light", so the Low Light Mode settings take effect even in ambient light that the camera considers to be "day".  The script will request that you choose a mode from the available modes of:
-* Highspeed - enables a fixed exposure time, selectable between 1 and 80ms. Low values will reduce motion blur but may result in noisier video. Ample illumination is required to improve quality under very short exposures due to the lack of captured light.
-* Speed - enables short exposures ranging from 10-80ms. The exposure time will increase with low light conditions. The camera will select the shutter speed in this mode
+* Highspeed - enables a fixed exposure time, selectable between 1 and 80ms. Low values will reduce motion blur but may result in noisier video. Ample illumination is required to improve quality under very short exposures due to the lack of captured light. This is the only mode in which the user is able to select an exact shutter speed.  All other modes use a shutter speed determined by the camera
+* Speed - enables short exposures ranging from 10-80ms. The exposure time will increase with low light conditions.
 * Balanced - enables medium exposures ranging from 20-80ms with low light conditions resulting in a higher exposure time.
 * Quality - enables longer exposures ranging from 40-200ms. Motion blur may increase, but images will contain less noise under low light conditions.
 * Moonlight - enables exposures of up to 500ms if necessary. This mode will result in more motion blur for fast moving objects.
+
+Note: As of the time of this writing, the user is unable to control ISO, which is left entirely up to the camera at all times.  This is by design in the API specification, not due to any limitations in the Monocam script
 
 ### Day/Night mode
 Press "n" to switch to Night mode.  The monochrome cameras seem to start up in day mode when cold booted. Day mode, notably, does not use a monochrome sensor, so is not the intended sensor for this script, however, the script should work fine with the color/day sensor.  Press "d" to switch to Day mode.  If the script shows that your day/night mode is in "auto" the camera will possibly flip from day to night mode automatically based on ambient light.  It is best to force one mode or the other for the purposes of photography.
