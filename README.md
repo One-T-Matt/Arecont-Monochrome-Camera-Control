@@ -100,7 +100,7 @@ At the top of the Monocam.PS1 script, there are 3 pre-defined custom functions w
 
 ## Image Examples
 
-These images were shot using an Arecont AV3130M, generally on Quality mode, with a Cosmicar 16mm F/1.6 lens
+These images were shot using an Arecont AV3130M, generally on Quality mode, with a Cosmicar 16mm F/1.6 lens.  In general, the AV3130 likes a lot of bright sunlight to make contrasty images.  Cloudy days with diffuse light will result in pretty flat images.  The Cosmicar lens on my camera is fairly sharp in the center but rapidly gets soft towards the edges
 
 <img width="1280" height="1024" alt="Mono-2026-09-11_17-49-59" src="https://github.com/user-attachments/assets/e964ccfc-fd1e-40b7-b975-1e5a76811518" />
 <img width="1280" height="1024" alt="Mono-2026-09-11_07-43-19" src="https://github.com/user-attachments/assets/66bfcf91-8f77-4e6f-9ab8-11dae652c5a2" />
