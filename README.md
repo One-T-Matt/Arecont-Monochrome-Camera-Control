@@ -43,7 +43,7 @@ These setup instructions assume you are working with a used camera that is not s
 
 ## Usage
 
-The most useful way to use the Monocam script is to run the live view from the cameras web interface along with running the script at the same time.  This will allow you to have a live preview of the settings changes you make in the script, as you make them.  Arecont cameras have a hidden web page that is not exposed to the user, called livevideo.html.  To access it simply request that page in a web browser, http://<your-cameras-IP>/livevideo.html.  This will give you a nearly fullscreen live preview of what the camera sees.  I say "nearly" because my camera seems to crop some of the bottom off the live preview, so there is actually more in the image than shows up on the live preview.
+The most useful way to use the Monocam script is to run the live view from the cameras web interface along with running the script at the same time.  This will allow you to have a live preview of the settings changes you make in the script, as you make them.  Arecont cameras have a hidden web page that is not exposed to the user, called livevideo.html.  To access it simply request that page in a web browser, http://_your-cameras-IP_/livevideo.html.  This will give you a nearly fullscreen live preview of what the camera sees.  I say "nearly" because my camera seems to crop some of the bottom off the live preview, so there is actually more in the image than shows up on the live preview.
 
 <img width="975" height="509" alt="Screenshot" src="https://github.com/user-attachments/assets/62042c06-1e83-4fff-ba01-4c5bc8f505c8" />
 
