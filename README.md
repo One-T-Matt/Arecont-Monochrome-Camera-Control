@@ -1,6 +1,6 @@
 # Arecont-Monochrome-Camera-Control
 
-<img width="1008" height="720" alt="megavideo_dual_xl" src="https://github.com/user-attachments/assets/6feb6c82-351c-4d33-b7fa-7eee16a68de9" />
+<img width="504" height="360" alt="megavideo_dual_xl" src="https://github.com/user-attachments/assets/6feb6c82-351c-4d33-b7fa-7eee16a68de9" />
 
 ## What is this?
 A PowerShell script to control the Arecont AV3130M dual-sensor color and monochrome security camera for the purposes of photography
