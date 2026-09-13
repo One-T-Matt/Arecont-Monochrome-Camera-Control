@@ -10,7 +10,7 @@ True monochrome photography. Certain cameras from Arecont (and presumably other 
 
 ## Prerequisites?
 1) A compatible camera.  I personally own and have built and tested this script on an [Arecont AV3130M](https://sales.arecontvision.com/marketing/contents/AV3130_DS_HQ_ENG_052412.pdf), however, it should work reasonably well on any of the Arecont dual-lens day/night cameras. If you are using this script with a different Arecont camera, you may need to reference the [API Guide](https://http-api.arecontvision.com/) to get it working correctly with the different settings introduced with different models
-2) The [Arecont AV IP Utility](https://sales.arecontvision.com/software.php).  This software will allow you to find an Arecont camera on your network (useful when buying used cameras that are setup for a different subnet than your own.
+2) The [Arecont AV IP Utility](https://sales.arecontvision.com/software.php).  This software will allow you to find an Arecont camera on your network (useful when buying used cameras that are setup for a different subnet than your own).
 3) The [Arecont Firmware Loader](https://support.arecontvision.com/hc/en-us/articles/360034001173-How-to-use-Firmware-Loader) (linked at the bottom of the article).  Used if you have a camera that is either not on the latest firmware, or has an admin password set that you do not know
 4) Powershell, with the ThreadJob module installed (Install-Module -Name ThreadJob -Scope CurrentUser)
 
